@@ -25,19 +25,17 @@
    ```bash
    git clone https://github.com/beanbeeean/profile.git
    cd profile
-   ```
+   
 
 2.의존성 설치
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
 
 3.실행
 로컬 서버를 시작 시 아래 명령어 입력
 
     ```bash
-    npm run dev
-    ```
+   npm run dev
 
 브라우저에서 http://localhost:3000에 접속하여 사이트를 확인할 수 있습니다.
